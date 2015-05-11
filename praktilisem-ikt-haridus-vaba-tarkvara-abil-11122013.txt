@@ -98,13 +98,13 @@ organisaatorite võimekus.
 Kui see pilootfaas läbitakse edukalt on avatud kõik võimalused -
 oodatava  tulemuse üheks näiteks on süvenenudinterdistsiplinaarne
 koostöö.
-Programmi arenedes ja huviliste kasvades osutub ilmselt vajalikuks
-kompetentside jagamine haridusasutuste vahel, võimaldades sel teel
-luua mitmeid kompetentsikeskusi, mille spetsialiseerumist on
+Programmi arenedes ja huviliste kasvades osutub vajalikuks
+oskuste jagamine haridusasutuste vahel, võimaldades sel teel
+luua tervet Eestit kattev Vabavara Teadmuskeskus, mille spetsialiseerumist on
 teretulnud nii nõu kui jõu osas  kasutama ka avaliku ning ärisektori
 esindajad. Lisaks avab see haridusasutustele
-võimaluse pakkuda kompetentsidel põhinevat täiendõpet - vastavalt
-ambitsioonikusele ja kompetentsi spetsiifikale, miks mitte
+võimaluse pakkuda oskusteabel põhinevat täiendõpet - vastavalt
+ambitsioonikusele ja oskusteabe spetsiifikale, miks mitte ka
 rahvusvahelisel tasemel.
 
 
@@ -112,7 +112,7 @@ rahvusvahelisel tasemel.
 TEGEVUS - MILLEST ALUSTADA?
 ------------------------------------------------
 See võiks olla mõni Eestile üldisemalt kasulik projekt - näiteks
-LibreOffice või Estobuntu.
+LibreOffice ja Estobuntu.
 
 
 
@@ -141,7 +141,7 @@ IT
 Rakenduskõrghariduse osaks jäävad praktilisemad küsimused:
 *kasutajatoega seonduv;
 *tarkvara paigalduse ning kasutamisega seonduv praktika
-(vastavasisulise kompetentsi kasvatamine tulevaste spetsialistide
+(vastavasisulise oskusteabe kasvatamine tulevaste spetsialistide
 hulgas);
 *mahukamate kirjalike tööde raames mingi konkreetse sisulise probleemi
 lahendamine (tarkvaraarendus või sisulise probleemi analüüs ning
