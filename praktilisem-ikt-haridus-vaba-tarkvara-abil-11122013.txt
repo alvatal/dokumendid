@@ -1,0 +1,215 @@
+LAHENDUSED - KUIDAS?
+=====================
+Tänased noored (õpilased) on keskealistest (haridussüsteemi töötajad)
+oma arvutikasutamise kogemustelt tugevalt ees - seega ei tohi
+me seda potentsiaali alahinnata ega maha tampida, vaid peame
+pingutama,  kogu edasine haridustee noorte jaoks arendavana hoida.
+Riikliku egiidi all tuleb käivitada vastav haridusprogramm  loogilise
+jätkuna Progetiigri initsiatiivile. Vajame selleks riiklikku huvi ning
+eelkõige kogemustega inimesi, kes on valdkonnaga kokku puutunud,
+omaksid ülevaadet ning teadmisi, kuidas sellist üritust  kvaliteetselt
+ning jätkusuutlikult korraldada.
+Järgnev organisatsiooniline  visioon on esialgne ning piirdub
+valdkonna ekspertidega, arvestamata kaudseid seoseid ja toetavaid
+funktsioone.
+
+Organisatsioon
+--------------------
+Haridusasutuste kaasamiseks on oluline, et tegu oleks mitte
+vabatahtlike veetud, vaid riiklikult koordineeritud projektiga.  See
+tagab tõsiseltvõetavuse  ning loob
+paremad eeldused programmiga ühinemiseks.
+
+Organisatsiooni struktuur oleks esimeses faasis kahekihiline  ja
+hiljem vastavalt programmist tulenevale vajadusele.
+
+1. Püramiidi tipus on programmi juhtrühm, kus osalevad valdkonna
+kogemustega eksperdid - nemad hoiavad rahvusvahelisi suhteid, osalevad
+tarkvaraprojektide sisulistes tehnilistes aruteludes nii sisendi kui
+väljundi mõttes.  Siin otsustatakse prioriteedid (milliseid projekte
+toetada), tegevusplaan, organisatsiooni töökorraldus ning vahetatakse
+infot alumiste kihtidega. Siitkaudu jõuab alumiste kihtide panus
+reaalselt projektidesse ja siin töötatakse välja programmi toetava
+taristu disain - metoodika, tegevuse aluseks olevad protsessid ning
+vajalik infosüsteem (rakenduste valik). Juhtrühma ülesanneteks on
+avaliku sektori huvitatud osapoolte (tellijad) kaasamine ning tegevust
+suunava sisendi hankimine, osaliste kaasamine ning teavitamine -
+samuti programmi eesmärke toetavate kaasavate (nii avalikku sektorit,
+programmis osalejaid (kohalik organisatsioon ja välispartnerid) ning
+avalikkust)) ürituste korraldamine.
+Vajalik profiil: sisemise motivatsiooni ja kontrollkeskmega isiksus,
+kogemustega tehnoloogiaekspert
+
+2. Haridusasutustega töötavad kohalikud programmikoordinaatorid, kes
+vahendavad infot õppejõudude ning juhtrühma vahel. Nemad saavad
+sisendilt nii juhtrühmalt kui õppejõududelt, ning varustavad mõlemad
+osapooled vajaliku väljundiga. Programmikkoordinaatorite kohustuste
+hulgas on lisaks ülesannete edastamisele ka teatav kogus
+projektijuhtimist- tulemuste kogumise ning ajastuse vaates.
+Panustamise juhitavus on saavutatav, ühildades ülesannete seostamise
+nutikalt õppekavaga - seda nii tavapärase praktilise töö (rohkelt
+väikesemahulisi ülesandeid) kui teadustööde (vähem, kuid mahukamad
+ülesanded) vormis, arvestades osalejate kogemusi (vanemad kursused
+reeglina kogenumad). Koordinaatorite arv sõltub eelkõige koormusest -
+suure haridusasutuse puhul võib neid olla mitmeid, väiksemate
+haridusasutuste osas võib üks koordinaator hallata mitut asutust.
+Koordinaatorid peavad panustama ka õpilaste kaasamisse - otsima
+talente, pakkuma
+neile suuremaid väljakutseid, innustama ning tunnustama
+õpilasi/tudengeid ja õppejõude.
+Profiil: sisemise motivatsiooniga, ekstrovertne ning kaasamisvõimeline
+organisaator (huvijuht).
+
+
+
+3. Õppejõud ja huviringide juhendajad suhtlevad õpilaste ning
+koordinaatoriga, vajadusel ka juhtrühmaga, andmaks ülevaadet
+õpiväljunditest ning saamaks sisendit oluliste eesmärkide, probleemide
+või ülesannete osas. Nemad annavad koordinaatorile sisendit
+probleemide ja vajaduste osas  hetkeseisust ja tajutavatest trendidest
+lähtuvalt  ning saavad vajalikke juhtnööre ning ülesandepüstitusi
+õppetöö praktilise osa tarbeks. Oluline on tasakaalus hoida
+individuaalset ja grupitööd ning ärgitada kriitilist mõtlemist ja
+ajurünnakuid nii vahetu kui elektroonilisi kanaleid kasutava koostöö
+vormis.
+
+4. Õpilased suhtlevad peamiselt õppejõududega, huvi korral  programmi
+kontekstis ka muude kirjeldatud osapooltega. Oluline on, et tegevus
+oleks nende jaoks innustav ning nii eeliste, soovide, arvamuste,
+puuduste, hoiakute osas on hea saada vahetut tagasisidet. See on
+ilmselt abiks haridussüsteemile laiemalt.
+Osalus programmis annab õpilasele mitte ainult praktilisi oskusi, vaid
+ka ettekujutuse organisatsiooni toimimisest ning läbi erinevate
+kaasatud erialade ja inimeste mitmekülgse vaate maailmale. Õpilased
+peavad tundma end kaasatuina ning piisavalt vabadena, et saaksid
+panustada just endile sobivaid vahendeid kasutades -
+ainult vaba mõttelennu tulemusena saab tekkida innovatsioon.
+
+
+Programmi alustuseks tuleks viia läbi pilootfaas - 1-2 huvitatud
+haridusasutusega. Tuleb arvestada, et programmi hoog kasvab töö käigus
+mittelineaarselt -
+näiteks tuleb kogu algkiirendus projekti jaoks saada kätte pilootfaasi
+raames: luua organisatsioon, sõlmida või värskendada rahvusvahelised
+suhted ning
+ideed nende suhete kaudu levitada. Selles faasis on kriitiline luua
+toimivad suhted programmis osalejate vahel ning edu eelduseks
+organisaatorite võimekus.
+Kui see pilootfaas läbitakse edukalt on avatud kõik võimalused -
+oodatava  tulemuse üheks näiteks on süvenenudinterdistsiplinaarne
+koostöö.
+Programmi arenedes ja huviliste kasvades osutub ilmselt vajalikuks
+kompetentside jagamine haridusasutuste vahel, võimaldades sel teel
+luua mitmeid kompetentsikeskusi, mille spetsialiseerumist on
+teretulnud nii nõu kui jõu osas  kasutama ka avaliku ning ärisektori
+esindajad. Lisaks avab see haridusasutustele
+võimaluse pakkuda kompetentsidel põhinevat täiendõpet - vastavalt
+ambitsioonikusele ja kompetentsi spetsiifikale, miks mitte
+rahvusvahelisel tasemel.
+
+
+
+TEGEVUS - MILLEST ALUSTADA?
+------------------------------------------------
+See võiks olla mõni Eestile üldisemalt kasulik projekt - näiteks
+LibreOffice või Estobuntu.
+
+
+
+TULEMUSED
+===========
+
+Leiame sisulise ning olulise väljundi paljude kõrghariduse tasemel
+õpitavate erialade esindajatele:
+
+IT
+---
+1. praktiline tarkvaraarendus:
+*sisuliste, vormiliste ning koodivigade parandamine
+*uue funktsionaalsuse loomine;
+*koodi optimeerimine;
+*koodi dokumenteerimine;
+*...piirab ainult kujutlusvõime;
+
+2. teoreetiline informaatika
+*süsteemi nõuete kogumine potentsiaalselt kasutajaskonnalt;
+*kasutajakogemuse hindamine;
+*kasutajatelt tagasiside korjamine;
+*uute meetodite katsetamine;
+*...piirab ainult kujutlusvõime;
+
+Rakenduskõrghariduse osaks jäävad praktilisemad küsimused:
+*kasutajatoega seonduv;
+*tarkvara paigalduse ning kasutamisega seonduv praktika
+(vastavasisulise kompetentsi kasvatamine tulevaste spetsialistide
+hulgas);
+*mahukamate kirjalike tööde raames mingi konkreetse sisulise probleemi
+lahendamine (tarkvaraarendus või sisulise probleemi analüüs ning
+parandusettepanekud;
+*dokumentatsiooni koostamine (tulevase spetsialisti väga oluline harjumus)
+*...piirab ainult kujutlusvõime;
+
+
+Muud erialad (interdistsiplinaarsuse vaade)
+-------------------------------------------------------
+*multimeedia ja graafiline disain (kasutajakogemus, õppematerjalid,
+juhendmaterjalid, kasutajaliidesed)
+*filoloogia (tõlked, lokaliseeringud, keeleloome)
+*humanitaarteadused (sisulised materjalid)
+*pedagoogika (tõhusate juhend- ning õppematerjalide väljatöötamine)
+*psühholoogia (kasutajakogemuse küsimused, kasutajaliidese
+problemaatika analüüs, kasutajate hoiakud ning suhtumine)
+*sotsioloogia (küsitlused, uuringud, kasutajaskonna käitumise
+muutumise jälgimine jne.)
+*õigusteadus (kogemused litsentside ja uue ajastu autoriõiguse vallas)
+
+Üldkasulik  võimalus osaleda rahvusvahelise organisatsiooni töös ning
+õppida vastutust eeldavate ülesannete varal, virtuaalse
+meeskonnatöö vormis.  Lisaks sisulisele panustamisele tekib sellise
+keskkonna mõjul suurepärane arusaam IKT tänastest töövahenditest ning
+piisava vabaduse najal hakatakse kaasa mõtlema ning kujundama IKT kui
+tööstusharu arengusuundi.  Kuna programm on hariduslik,  eksisteerivad
+seal ka kasvuvõimalused - võimalus võtta suuremat vastutust kas
+tehnilise või  organisatoorse panuse näol.
+Rahvusvaheline koostöö loob osalistele kasulikke sidemeid, mis pole
+pelgalt vormilised - ühine eesmärk loob võimalused sisuliseks ning
+ühendavaks
+koostööks. Tekivad koostöövõrgustikud, mis arendavad ning motiveerivad
+noori ning kannavad nad pideva arengu käigus edasi teadusellu.
+Koostööst sünnivad uued projektid, mis pakuvad järgmistele
+põlvkondadele uusi arenguvõimalusi. Sisemajanduslikult on see täpselt
+see suund, mida tootmissisendiks sobivate loodusressursside puudumise
+tõttu vajame.
+
+
+
+Info liikumine - lahendused alt üles ja rohkuses peitub igal juhul
+"õigeid vastuseid" - küsimus on ainult nende ülesleidmises.
+Haridusasutused tagavad pideva juurdekasvu - alati on panustajaid.
+
+
+
+
+KÕIK VÕIDAVAD
+==============
+
+1. Eesti inimkapital saavutab haridussüsteemi praktilise ning
+rahvusvahelise suunitluse toel globaalse konkurentsivõime - me loome
+uusi ja innovatiivseid ettevõtteid ning meie inimesed on hinnatud
+tööjõud tööstusharu juhtivates ettevõtete tasandil.
+2. Kasutame kaptiali nutikalt ja tarkvaralitsentside asemel (kapitali
+väljavool) panustame selle nende inimeste arendamisesse, kelle kätes
+on meie tulevik .
+3. Eesti riik muutub IKT lahenduste tarbijast ja importijast (tänane
+seis) nende tootjaks ning eksportijaks.
+4. Avaliku sektori asutused saavad piisavalt tuge julgemaks omaks
+võtta avatud lähtekoodiga tarkvaralahendusi.
+5. Tekib reaalne  võimekus toota eri tasemetel haritud IKT tööjõudu
+tänaste töötute seast, kelle kunagi omandatud erialad on olmest
+kadumas.
+6. Tekib võimalus mõjutada globaalsete projektide käekäiku ning
+riikliku panustamise näol toetame tarkvaraprojekte ning neist kasu
+saajaid globaalsel tasandil
+7. Tekib võimalus kaasa rääkida meid huvitavate tarkvaraprojektide
+(LibreOffice) strateegilistes arengutes.
+8. Eestist tekib tõsiseltvõetava ja ise mõtleva e-riigi kuvand.
